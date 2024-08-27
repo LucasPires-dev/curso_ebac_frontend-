@@ -45,11 +45,22 @@
 
 }
 
-p{  
+p.error {
     width: 320px;
     margin: 0 auto;
     margin-bottom: 16px;
-    background-color: rgb(247, 208, 137);
+    background-color: red;
+    color: white;
     padding: 8px;
+    display: none;
+}
+
+#resultado{  
+    width: 320px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    background-color: green;
+    color: white;
+    padding: 12px 8px;
     display: none;
 }
