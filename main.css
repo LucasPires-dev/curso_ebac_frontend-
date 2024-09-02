@@ -17,6 +17,7 @@ header {
 h1 {
     font-family: "Bungee", system-ui;
     font-size: 32px;
+    color: green;
 }
 
 div#form {
@@ -43,6 +44,7 @@ form button {
     font-weight: bold;
     background-color: aquamarine;
     border-radius: 0 8px 8px 0;
+    color: green;
 }
 
 form button span {
@@ -58,6 +60,7 @@ form button span {
 h2 {
     font-family: "Bungee", system-ui;
     font-size: 24px;
+    color: green;
 }
 
 #cabecario-opcao {
