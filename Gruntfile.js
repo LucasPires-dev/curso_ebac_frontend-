@@ -38,7 +38,7 @@ module.exports = function(grunt) {
                     },
                     {
                         match:"ENDERECO_DO_JS",
-                        replacement: '../src/scripts/main.jS'
+                        replacement: '../src/scripts/main.js'
                     }
                 ]
                 },
@@ -60,7 +60,7 @@ module.exports = function(grunt) {
                         },
                         {
                             match:"ENDERECO_DO_JS",
-                            replacement: './scripts/main.min.jS'
+                            replacement: './scripts/main.min.js'
                         }
                 ]
                 },
